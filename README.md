@@ -1,7 +1,7 @@
 <h1> Get the definition </h1>
 A browser extension project made by Thomas Saïag, Elodie Guayroso, Gokhan Karakaya at Ada Tech School
 <br>
-Create with Javascript, React, Css
+Create with Javascript, Css
 
 <h2> About the project </h2>
 
